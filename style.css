@@ -9,7 +9,7 @@
 
 
 body{
-    background-color: #a34e10;
+    background-color: #b37244;
     font-family: "Poppins", serif;
 
 }
@@ -64,7 +64,7 @@ section rodape {
 
 .rodape {
     width: 100%;
-    background-color: #c96705;
+    background-color: #d9bfa4;
 }
 
 footer {
@@ -87,7 +87,7 @@ footer {
 
 #footer-conteudo h3 {
     margin-bottom: 1.5rem;
-    color:#dee439;
+    color:#c2951b;
     font-size: 20px
 }
 
